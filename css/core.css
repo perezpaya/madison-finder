@@ -1,0 +1,38 @@
+html {
+  font-family: "Helvetica Neue", Helvetica, Arial;
+}
+
+.center {
+  text-align: center;
+  margin: 0 auto;
+}
+
+h1 {
+  font-size: 60px;
+  color: #FF6462;
+}
+
+input {
+ height: 80px;
+ border: 1px solid #666;
+}
+
+input[type="email"] {
+  border-color: #1ABBFF;
+  font-size: 40px;
+  color: #FD143E;
+}
+
+input[type="submit"] {
+  font-size: 42px;
+  border-color: white;
+  background-color: #1ABBFF;
+  color: white;
+}
+
+.footer {
+  text-align: center;
+  padding-top: 30px;
+  margin: 0 auto;
+  width: 80%;
+}
